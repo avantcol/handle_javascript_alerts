@@ -103,19 +103,20 @@
     <ImageAsset Include="Resources\Images.xcassets\splash-xamagon.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car40.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car76.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car1024.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car58.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car87.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car80.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car180 %281%29.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car29.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car167.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car152.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car20.png" />
-    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\car120.png" />
-    <ImageAsset Include="Resources\Images.xcassets\splash-xamagon.imageset\car1024.png" />
+    <ImageAsset Include="Resources\Images.xcassets\splash-xamagon.imageset\lg_120.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_40b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_60b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_58b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_87b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_80b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_120b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_180b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_20b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_29b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_76b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_167b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_152b.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\lg_1024_1024b.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />
